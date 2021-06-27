@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kumarhimself
+- 👀 I’m interested in web dev, CS, economics, Star Wars fan theories
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on ...
+- 📫 Reach me at @kumarhimself on Instagram!
