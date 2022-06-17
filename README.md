@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kumarhimself
-- 👀 I’m interested in web dev, CS, economics, Star Wars fan theories
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web and game development!
+- 💞️ I’m looking to collaborate on game, website, and application development projects!
 - 📫 Reach me at @kumarhimself on Instagram!
