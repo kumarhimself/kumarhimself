@@ -3,4 +3,4 @@ Hello there, my name is Ayush Kumar, and I am a student at the University of Wis
 - 🌐 Full‑Stack Development – building robust web and iOS applications
 - 📊 Data Engineering & Analytics – turning raw data into actionable insights
 
-Feel free to reach out via my email akumar249@wisc.edu!
+Feel free to reach out via my [LinkedIn](https://www.linkedin.com/in/kumar-himself/)
